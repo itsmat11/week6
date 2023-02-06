@@ -31,3 +31,10 @@ a:hover{
 [title~="BCIT"] {
     background-color: yellow;
 }
+
+img{
+    float: left;
+}
+.below{
+    clear: left;
+}
